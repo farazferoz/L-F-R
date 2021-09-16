@@ -1,5 +1,3 @@
-# L-F-R
-line following robbot
 int left_motor_forward = 3;
 int left_motor_reverse = 5;
 int right_motor_forward = 6;
@@ -47,3 +45,4 @@ else
   digitalWrite(right_motor_forward,HIGH);
 }
 delay(10);
+
